@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "パンダヒーロー Cover",
+  "base_artist": "めいちゃん",
+  "createdAt": "2026-02-13T10:22:25.844803Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "パンダヒーロー",
+      "artist": "ハチ",
+      "has_synced": true,
+      "path": "select/01_パンダヒーロー_ハチ.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "パンダヒーロー",
+      "artist": "ハチ feat. GUMI",
+      "has_synced": true,
+      "path": "select/02_パンダヒーロー_ハチ_feat._GUMI.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "パンダヒーロー - ORIGINAL",
+      "artist": "hachi",
+      "has_synced": false,
+      "path": "select/03_パンダヒーロー_-_ORIGINAL_hachi.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "パンダヒーロー",
+      "artist": "ハチ; GUMI",
+      "has_synced": true,
+      "path": "select/04_パンダヒーロー_ハチ;_GUMI.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "パンダヒーロー",
+      "artist": "GUMI",
+      "has_synced": true,
+      "path": "select/05_パンダヒーロー_GUMI.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "パンダヒーロー(ORIGINAL)",
+      "artist": "ハチ",
+      "has_synced": true,
+      "path": "select/06_パンダヒーロー(ORIGINAL)_ハチ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "パンダヒーロー",
+      "artist": "まらしぃ",
+      "has_synced": false,
+      "path": "select/07_パンダヒーロー_まらしぃ.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "パンダヒーロー",
+      "artist": "ハチ feat. 赤飯",
+      "has_synced": false,
+      "path": "select/08_パンダヒーロー_ハチ_feat._赤飯.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "パンダヒーロー",
+      "artist": "ハチ Feat. GUMI",
+      "has_synced": true,
+      "path": "select/09_パンダヒーロー_ハチ_Feat._GUMI.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "パンダヒーロー",
+      "artist": "ハチ (Hachi)",
+      "has_synced": true,
+      "path": "select/10_パンダヒーロー_ハチ_(Hachi).lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "パンダヒーロー",
+      "artist": "ハチ feat.GUMI",
+      "has_synced": true,
+      "path": "select/11_パンダヒーロー_ハチ_feat.GUMI.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "パンダヒーロー (feat. GUMI)",
+      "artist": "ハチ",
+      "has_synced": true,
+      "path": "select/12_パンダヒーロー_(feat._GUMI)_ハチ.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "パンダヒーロー",
+      "artist": "dmARTS",
+      "has_synced": false,
+      "path": "select/13_パンダヒーロー_dmARTS.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "パンダヒーロー",
+      "artist": "ハチ feat.GUMI",
+      "has_synced": true,
+      "path": "select/14_パンダヒーロー_ハチ_feat.GUMI.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "パンダヒーロー",
+      "artist": "Hatsune Miku",
+      "has_synced": true,
+      "path": "select/15_パンダヒーロー_Hatsune_Miku.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "パンダヒーロー",
+      "artist": "ハチ feat. 灯油",
+      "has_synced": true,
+      "path": "select/16_パンダヒーロー_ハチ_feat._灯油.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "パンダヒーロー",
+      "artist": "めいちゃん",
+      "has_synced": false,
+      "path": "select/pl_01_パンダヒーロー_めいちゃん.txt"
+    }
+  ]
+}
